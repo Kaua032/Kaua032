@@ -1,4 +1,4 @@
-### Hello, i am Kauã Xavier. I am a student passionate about technology and programming. I'm studying Internet Technician at SENAI, where I learn about web development, databases, networks and security. In my GitHub profile, you can find my personal and academic projects, which involve different languages ​​and tools. I'm always looking to learn new skills and improve myself as a professional.
+### Hello, i am Kauã Xavier. 
 
 
 <div align="center">

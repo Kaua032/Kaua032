@@ -20,10 +20,11 @@
 
   ##
   <div style="display: inline_block"><br>
-    <img align="center" alt="Kauã-Portuguese-BR" height="30" width="40" src="./flags_icons/brasil.png">
-    <img align="center" alt="Kauã-English" height="30" width="40" src="./flags_icons/estados-unidos-da-america.png">
-    <img align="center" alt="Kauã-French" height="30" width="40" src="./flags_icons/franca.png">
+    <img align="center" alt="Kauã-Portuguese-BR" height="40" width="40" src="./flags_icons/brasil.png">
+    <img align="center" alt="Kauã-English" height="40" width="40" src="./flags_icons/estados-unidos-da-america.png">
+    <img align="center" alt="Kauã-French" height="40" width="40" src="./flags_icons/franca.png">
 </div>
+
   ##
   
   <div>

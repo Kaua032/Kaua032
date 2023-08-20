@@ -5,6 +5,7 @@
   <a href="https://github.com/Kaua032">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Kaua032&layout=compact&langs_count=7&theme=dark" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaua032&layout=compact&langs_count=7&theme=dark"/>
+</div>
 ## ⚡ Technologies
 
 These are some of the technologies and tools that I work with:

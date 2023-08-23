@@ -10,8 +10,8 @@
 
 <div align="center">
   <a href="https://github.com/Kaua032">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Kaua032&layout=compact&langs_count=7&theme=dark" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaua032&layout=compact&langs_count=7&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Kaua032&layout=compact&langs_count=7&theme=dark&card_width=490" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaua032&layout=compact&langs_count=7&theme=dark&card_width=490"/>
 </div>
     
 ⚡ Technologies

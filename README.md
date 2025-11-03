@@ -14,6 +14,8 @@ These are some of the technologies and tools that I work with:
 Backend: 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express%20js-000000?style=flat-square&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-flat-square&logo=python&logoColor=ffdd54)
 
 Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
